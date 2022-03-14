@@ -18,4 +18,8 @@ For the users' convenience:
 2. navigation through menu and social networks.
 3. videos watching within a project page using `<iframe>`.
 
+### Project Link
+
+Project's published [here](https://barbylka.github.io/how-to-learn/ ).
+
 This project was created as a training course web development project, so any comments on refinement and optimization are welcome!
