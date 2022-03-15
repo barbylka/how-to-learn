@@ -18,6 +18,14 @@ For the users' convenience:
 2. navigation through menu and social networks.
 3. videos watching within a project page using `<iframe>`.
 
+## The refinement plan:
+
+1. Add an interactive blocks or a modal,
+
+2. Update html&css,
+
+3. Connect Webpack.
+
 ### The Project Link
 
 The Project's published [here](https://barbylka.github.io/how-to-learn/ ).
